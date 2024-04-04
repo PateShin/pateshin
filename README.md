@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I am a Year 2 Computer Science Student at the National University.
+I was born in South Korea and lived in New Zealand from 2014 to 2021.
+
+I Studied in Long Bay College in NZ from Year 9 to Year 13!
+
 <!--
 **PateShin/pateshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
